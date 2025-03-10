@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.chimple.bahama"
     android:installLocation="auto">
+    <!-- test commit and push -->
 
     <uses-feature android:glEsVersion="0x00020000" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
