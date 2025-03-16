@@ -5,15 +5,15 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleJvm" value="jbr-17" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/../../cocos2d-x/cocos/platform/android/libcocos2dx" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/firebaseSync" />
             <option value="$PROJECT_DIR$/game" />
             <option value="$PROJECT_DIR$/instantapp" />
+            <option value="$PROJECT_DIR$/../../cocos2d-x/cocos/platform/android/libcocos2dx" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
